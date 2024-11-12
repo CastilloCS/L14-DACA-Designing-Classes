@@ -1,4 +1,4 @@
-# **Lab 17: DACArecipient Class - Part 2: toString(), equals(), and helper methods**
+# **Lab 14: DACArecipient Class - Part 2: toString(), equals(), and helper methods**
 
 ### Overview:
 
